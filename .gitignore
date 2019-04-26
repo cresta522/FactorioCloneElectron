@@ -68,3 +68,5 @@ typings/
 .config/
 .profile
 .tmux/
+.npm-packages/
+.viminfo
